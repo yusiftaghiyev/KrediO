@@ -10,6 +10,7 @@
 <project name="KrediO" default="default" basedir=".">
     <description>Builds, tests, and runs the project KrediO.</description>
     <import file="nbproject/build-impl.xml"/>
+    //dddddd
     <!--
 
     There exist several targets which are by default empty and which can be 
